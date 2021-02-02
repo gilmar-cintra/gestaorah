@@ -26,7 +26,7 @@
                 <ul class="nav" id="side-menu">
 
                     <li>
-                        <a href="#" class=" hvr-bounce-to-right">
+                        <a href="polo" class=" hvr-bounce-to-right">
                             <i class="fa fa-home nav_icon "></i><span class="nav-label">Polos</span>
                         </a>
                     </li>
